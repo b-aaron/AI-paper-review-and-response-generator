@@ -223,4 +223,4 @@ Key configurable fields:
 
 ## License
 
-[MIT License](LICENSE) — Copyright © 2026 Bai Yufan
+[MIT License](LICENSE) — Copyright © 2026 Aaron B
